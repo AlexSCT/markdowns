@@ -1,5 +1,9 @@
 {
   "showSidebar": true,
-  "theme": "LessFlowery",
+  "theme": {
+    "theme" : "LessFlowery",
+    "defaultMode": "system",
+    "showModeSwitch": true
+  },
   
 }
