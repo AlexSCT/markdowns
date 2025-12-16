@@ -1,7 +1,7 @@
 {
   "showSidebar": true,
+  "showComments": true,
   "theme": {
-    "theme" : "LessFlowery",
     "defaultMode": "system",
     "showModeSwitch": true
   },
